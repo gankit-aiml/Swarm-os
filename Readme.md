@@ -50,7 +50,7 @@ Swarm-OS is packaged as a globally executable Python library. You do not need to
 
 **Run this command on both machines:**
 ```bash
-pip install https://github.com/W-Samik/Swarm_OS/archive/main.zip
+pip install https://github.com/gankit-aiml/Swarm-os/archive/main.zip
 ```
 *(This works on Windows, Linux, and Mac, requiring only a Python environment `torch`, `transformers`, `pyzmq`, and `zeroconf`).*
 
