@@ -1,8 +1,8 @@
 # 🐝 Swarm-OS: Decentralized Asymmetric Edge Inference
 **Built for the AMD Slingshot Hackathon**
 
-[![Demo Video](https://img.shields.io/badge/Watch-Live_Demo_Video-red?style=for-the-badge&logo=youtube)](#) *(<-- REPLACE THIS # WITH YOUR UNLISTED YOUTUBE LINK)*
-[![GitHub Package](https://img.shields.io/badge/Install%20with-PIP-blue?style=for-the-badge&logo=pypi)](https://github.com/W-Samik/Swarm_OS)
+[![Demo Video](https://img.shields.io/badge/Watch-Live_Demo_Video-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1N_UkOha4e1leNcTW71lUwc72JbTlkB2y/view?usp=sharing) 
+[![GitHub Package](https://img.shields.io/badge/Install%20with-PIP-blue?style=for-the-badge&logo=pypi)](https://github.com/gankit-aiml/Swarm-os)
 
 ## 📖 Comprehensive Project Overview
 
